@@ -1,1 +1,0 @@
-import{Cb as i,Db as o,Rb as r,Zb as c,ea as a}from"./chunk-ON3HSIZH.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=a({type:e,selectors:[["app-team-view"]],standalone:!0,features:[c],decls:2,vars:0,template:function(n,m){n&1&&(i(0,"p"),r(1,"team-view works!"),o())},changeDetection:0});let t=e;return t})();export{d as TeamViewComponent};
